@@ -1,5 +1,5 @@
 galaxy_info:
-  author: Fodil djamel
+  author: fodil djamel
   description: Create user with ssh authentication
 
   license: MIT
@@ -23,8 +23,7 @@ galaxy_info:
   platforms:
   - name: Centos
     versions:
-     - all
-
+     - 7
 
   galaxy_tags: [user]
     # List tags for your role here, one per line. A tag is a keyword that describes
